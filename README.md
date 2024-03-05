@@ -13,6 +13,9 @@
 #### Now create a virtual environment with Python 3.9 and then install the packages in the requirements.txt file.
 
 #### Run the Main.ipynb file in your system and it will generate 2 files: movie_list.pkl and similarity.pkl, Now you just need to open your front end part by extracting the frontend.zip and open VS Code and just run the command streamlit run app.py
+<img width="1440" alt="Movie Recommendation System Screenshot" src="https://github.com/anu24765/Movie-Recommendation-System/assets/96810206/b7f0a545-3672-4c5c-9a78-4b2268d74ea5">
+
+
 
 ## How to get the API key?
 
